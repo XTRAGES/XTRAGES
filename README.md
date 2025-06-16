@@ -23,13 +23,13 @@ I enjoy solving practical problems — whether it’s automating tasks, handling
 A full hotel booking and admin system built with PHP, MySQL, HTML, CSS, and JavaScript.  
 ✅ Customer booking, admin dashboard, staff management, responsive design.
 
-### 🤖 [AItraffic](https://github.com/XTRAGES/AItraffic)
+### 🤖 [AI Traffic](https://github.com/XTRAGES/AItraffic)
 Predicts bus traffic levels and wait times using ML models (Python/Flask) with a React frontend.
 
-### 🔒 [SmartPension](https://github.com/XTRAGES/smartpension)
+### 🔒 [Smart Pension](https://github.com/XTRAGES/smartpension)
 Blockchain-powered pension system with facial recognition & Ethereum smart contracts.
 
-### 🎯 [AttentionTracker](https://github.com/XTRAGES/AttentionTracker)
+### 🎯 [Attention Tracker](https://github.com/XTRAGES/AttentionTracker)
 YOLOv8-based computer vision system that detects attention hotspots in video streams.
 
 ---
