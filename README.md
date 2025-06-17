@@ -32,6 +32,15 @@ Blockchain-powered pension system with facial recognition & Ethereum smart contr
 ### 🎯 [Attention Tracker](https://github.com/XTRAGES/AttentionTracker)
 YOLOv8-based computer vision system that detects attention hotspots in video streams.
 
+### 📄 [Smart RFP Handler](https://github.com/XTRAGES/smart-rfp-handler)  
+A web app automating RFP processing using Azure services and AI (GPT). It extracts, summarizes, and matches documents for efficient business workflows.
+
+### 📚 [Lawyer Website](https://github.com/XTRAGES/lawyer-website)  
+A simple, clean lawyer website built with HTML and CSS, designed for showcasing legal services.
+
+
+
+
 ---
 
 ## 🎯 What I’m Focused On Now
