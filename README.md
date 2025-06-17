@@ -21,7 +21,7 @@ I enjoy solving practical problems — whether it’s automating tasks, handling
 
 ### 🏨 [Elisi Hotel Management System](https://github.com/XTRAGES/Elisi-Hotel)
 A full hotel booking and admin system built with PHP, MySQL, HTML, CSS, and JavaScript.  
-✅ Customer booking, admin dashboard, staff management, responsive design.
+Customer booking, admin dashboard, staff management, responsive design.
 
 ### 🤖 [AI Traffic](https://github.com/XTRAGES/AItraffic)
 Predicts bus traffic levels and wait times using ML models (Python/Flask) with a React frontend.
