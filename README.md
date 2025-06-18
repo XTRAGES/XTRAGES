@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aldin Zendeli
 
-**Aspiring Full-Stack Web Developer** |Tetovo, North Macedonia | 💻 Passionate about clean, functional, and practical code.
+**Aspiring Full-Stack Web Developer** | Tetovo, North Macedonia | 💻 Passionate about clean, functional, and practical code.
 
 ---
 
