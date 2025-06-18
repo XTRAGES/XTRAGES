@@ -19,7 +19,7 @@ I enjoy solving practical problems — whether it’s automating tasks, handling
 
 ## 💼 Featured Projects
 
-### 🏨 [Elisi Hotel Management System](https://github.com/XTRAGES/Elisi-Hotel)
+### 🏨 [Elisi Hotel Management System](https://github.com/XTRAGES/ElisiHotel)
 A full hotel booking and admin system built with PHP, MySQL, HTML, CSS, and JavaScript.  
 Customer booking, admin dashboard, staff management, responsive design.
 
