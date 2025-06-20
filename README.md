@@ -35,9 +35,11 @@ YOLOv8-based computer vision system that detects attention hotspots in video str
 ### 📄 [Smart RFP Handler](https://github.com/XTRAGES/smart-rfp-handler)  
 A web app automating RFP processing using Azure services and AI (GPT). It extracts, summarizes, and matches documents for efficient business workflows.
 
-### 📚 [Lawyer Website](https://github.com/XTRAGES/lawyer-website)  
+### ⚖️ [Lawyer Website](https://github.com/XTRAGES/lawyer-website)  
 A simple, clean lawyer website built with HTML and CSS, designed for showcasing legal services.
 
+### ⚖️ [LawyerWebsite2](https://github.com/XTRAGES/LawyerWebsite2)  
+An improved and modernized version of the original lawyer website, featuring cleaner design, enhanced responsiveness, and optimized structure using HTML and CSS for a better user experience.
 
 
 
