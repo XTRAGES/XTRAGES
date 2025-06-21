@@ -35,7 +35,7 @@ YOLOv8-based computer vision system that detects attention hotspots in video str
 ### 📄 [Smart RFP Handler](https://github.com/XTRAGES/smart-rfp-handler)  
 A web app automating RFP processing using Azure services and AI (GPT). It extracts, summarizes, and matches documents for efficient business workflows.
 
-### 🗂️ [TaskManagerSystem](https://github.com/XTRAGES/TaskManagerSystem)  
+### 🗂️ [Task Manager System](https://github.com/XTRAGES/TaskManagerSystem)  
 This hybrid Task Manager uses a Node.js backend with JWT authentication and a PHP frontend. It allows users to securely manage tasks with a simple interface.
 
 ### ⚖️ [Specter & Associates - Law Firm Website](https://github.com/XTRAGES/Specter-Associates)  
