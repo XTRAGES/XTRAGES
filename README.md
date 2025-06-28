@@ -38,11 +38,8 @@ A web app automating RFP processing using Azure services and AI (GPT). It extrac
 ### 🗂️ [Task Manager System](https://github.com/XTRAGES/TaskManagerSystem)  
 This hybrid Task Manager uses a Node.js backend with JWT authentication and a PHP frontend. It allows users to securely manage tasks with a simple interface.
 
-### ⚖️ [Specter & Associates - Law Firm Website](https://github.com/XTRAGES/Specter-Associates)  
-An improved and modernized version of the original lawyer website, featuring cleaner design, enhanced responsiveness, and optimized structure using HTML and CSS for a better user experience.
 
-### ⚖️ [Lawyer Website](https://github.com/XTRAGES/lawyer-website)  
-A simple, clean lawyer website built with HTML and CSS, designed for showcasing legal services.
+
 
 
 
