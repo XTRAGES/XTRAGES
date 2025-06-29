@@ -26,6 +26,9 @@ Customer booking, admin dashboard, staff management, responsive design.
 ### 🤖 [AI Traffic](https://github.com/XTRAGES/AItraffic)
 Predicts bus traffic levels and wait times using ML models (Python/Flask) with a React frontend.
 
+### 🚄 [Fahrplan++](https://github.com/XTRAGES/fahrplan-plus)
+A modern trip planning application built with React and TypeScript.
+
 ### 🔒 [Smart Pension](https://github.com/XTRAGES/smartpension)
 Blockchain-powered pension system with facial recognition & Ethereum smart contracts.
 
