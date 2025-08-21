@@ -31,7 +31,7 @@ https://fahrplan.netlify.app
 A modern trip planning application built with React and TypeScript.
 
 ### 💡 [Advanced AI Career Advisor](https://github.com/XTRAGES/advanced-ai-career-advisor)     
-https://aidv.netlify.app/
+https://proaiscan.netlify.app
 A comprehensive AI-powered platform designed to assist job seekers in optimizing their career prospects.
 
 ### 🔒 [Smart Pension](https://github.com/XTRAGES/smartpension)
