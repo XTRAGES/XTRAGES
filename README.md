@@ -30,10 +30,6 @@ Predicts bus traffic levels and wait times using ML models (Python/Flask) with a
 https://fahrplan.netlify.app
 A modern trip planning application built with React and TypeScript.
 
-### 💡 [Advanced AI Career Advisor](https://github.com/XTRAGES/advanced-ai-career-advisor)     
-https://proaiscan.netlify.app
-A comprehensive AI-powered platform designed to assist job seekers in optimizing their career prospects.
-
 ### 🔒 [Smart Pension](https://github.com/XTRAGES/smartpension)
 Blockchain-powered pension system with facial recognition & Ethereum smart contracts.
 
