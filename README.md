@@ -19,6 +19,10 @@ I enjoy solving practical problems — whether it’s automating tasks, handling
 
 ## 💼 Featured Projects
 
+### 🤖 Amantia
+https://amantia.app
+An AI-powered career optimization platform built with React and TypeScript.
+
 ### 🏨 [Elisi Hotel Management System](https://github.com/XTRAGES/ElisiHotel)
 A full hotel booking and admin system built with PHP, MySQL, HTML, CSS, and JavaScript.  
 Customer booking, admin dashboard, staff management, responsive design.
