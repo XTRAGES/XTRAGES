@@ -11,7 +11,7 @@ I’m a web developer with a strong focus on building real, usable projects — 
 🔹 **Front-End:** HTML, CSS, JavaScript, TypeScript, React, Vue.js, Angular, Bootstrap, jQuery  
 🔹 **Back-End:** PHP, MySQL, Node.js, Laravel, Symfony, MongoDB, PostgreSQL  
 🔹 **Other Tools:** Python, Flask, Hardhat, Git, GitLab, Jira, Confluence  
-🔹 **Learning:** DevOps basics, Unit Testing, Advanced TypeScript
+🔹 **Learning:** DevOps basics, Unit Testing, Advanced TypeScript, C++
 
 I enjoy solving practical problems — whether it’s automating tasks, handling data, or building tools that feel good to use.
 
