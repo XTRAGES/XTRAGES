@@ -44,7 +44,7 @@ YOLOv8-based computer vision system that detects attention hotspots in video str
 A web app automating RFP processing using Azure services and AI (GPT). It extracts, summarizes, and matches documents for efficient business workflows.
 
 ### 🗂️ [Task Manager System](https://github.com/XTRAGES/TaskManagerSystem)  
-This hybrid Task Manager uses a Node.js backend with JWT authentication and a PHP frontend. It allows users to securely manage tasks with a simple interface.
+This hybrid Task Manager uses a Node.js backend with JWT authentication. It allows users to securely manage tasks with a simple interface.
 
 
 
