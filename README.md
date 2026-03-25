@@ -20,7 +20,7 @@ I enjoy solving practical problems — whether it’s automating tasks, handling
 ## 💼 Featured Projects
 
 ### 🤖 Amantia
-https://amantia.app
+https://proaiscan.netlify.app
 An AI-powered career optimization platform built with React and TypeScript.
 
 ### 🏨 [Elisi Hotel Management System](https://github.com/XTRAGES/ElisiHotel)
