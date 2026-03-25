@@ -13,7 +13,7 @@ I’m a web developer with a strong focus on building real, usable projects — 
 🔹 **Other Tools:** Python, Flask, Hardhat, Git, GitLab, Jira, Confluence  
 🔹 **Learning:** DevOps basics, Unit Testing, Advanced TypeScript, C++
 
-I enjoy solving practical problems — whether it’s automating tasks, handling data, or building tools that feel good to use.
+I enjoy solving practical problems - whether it’s automating tasks, handling data, or building tools that feel good to use.
 
 ---
 
@@ -68,10 +68,5 @@ This hybrid Task Manager uses a Node.js backend with JWT authentication. It allo
 
 - ✉️ [aldinzendeli33@gmail.com](mailto:aldinzendeli33@gmail.com)
 - 🌟 Always open to feedback, ideas, and collaborations!
-
----
-
-## 📝 Disclaimer
-Some projects are based on open-source templates or collaborative work and have been customized or extended by me.
 
 
