@@ -9,7 +9,7 @@
 I’m a web developer with a strong focus on building real, usable projects — from full hotel booking systems in PHP/MySQL to modern JavaScript-based applications and AI/ML-powered tools.
 
 🔹 **Front-End:** HTML, CSS, JavaScript, TypeScript, React, Vue.js, Angular, Bootstrap, jQuery  
-🔹 **Back-End:** PHP, MySQL, Node.js, Laravel, Symfony, MongoDB, PostgreSQL  
+🔹 **Back-End:** PHP, MySQL, Node.js, Laravel, Symfony, MongoDB, PostgreSQL, Supabase  
 🔹 **Other Tools:** Python, Flask, Hardhat, Git, GitLab, Jira, Confluence  
 🔹 **Learning:** DevOps basics, Unit Testing, Advanced TypeScript, C++
 
